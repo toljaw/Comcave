@@ -1,0 +1,30 @@
+# Rider spezifische Dateien
+.idea/
+*.sln.iml
+
+# .NET spezifische Dateien
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Rider Logs
+.idea/.idea.log
+.idea/.idea.log.*
+
+# Mac spezifische Dateien
+.DS_Store
+
+# Paketmanager
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Logs
+*.log
